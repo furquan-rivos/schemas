@@ -1,0 +1,15 @@
+{
+    "$id": "http://github.com/furquan-rivos/schemas/blob/main/test_schema.json"
+    "type": "object",
+    "definitions": {
+	"test_type": {
+	    "$id": "test_type",
+	    "type": "object",
+	    "properties": {
+		"test": {
+		    "type": "integer"
+		}
+	    }
+	}
+    }
+}
