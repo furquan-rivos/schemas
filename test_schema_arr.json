@@ -1,0 +1,9 @@
+{
+    "$id": "http://github.com/furquan-rivos/schemas/blob/main/test_schema_arr.json",
+    "type": "object",
+    "properties": {
+	"test_arr": {
+	    "$ref": "test_schema.json#/definitions/test_type"
+	}
+    }
+}
