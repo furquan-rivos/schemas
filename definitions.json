@@ -1,9 +1,8 @@
 {
-    "$id": "http://github.com/furquan-rivos/schemas/blob/main/test_schema.json"
-    "type": "object",
+    "$id": "http://github.com/furquan-rivos/schemas/blob/main/definitions.json",
+    "$schema": "http://json-schema.org/draft-07/schema#",
     "definitions": {
 	"test_type": {
-	    "$id": "test_type",
 	    "type": "object",
 	    "properties": {
 		"test": {

@@ -3,7 +3,7 @@
     "type": "object",
     "properties": {
 	"test_arr": {
-	    "$ref": "test_schema.json#/definitions/test_type"
+	    "$ref": "definitions.json#/definitions/test_type"
 	}
     }
 }
